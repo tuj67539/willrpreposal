@@ -1,0 +1,8 @@
+Pong-Squared
+A game of pong that not only has paddles on the left and right but also on the top and bottom.
+The game will be very similar to a regular game of pong and the code will be based on the code we already have. The top paddle will be controlled by player 1 or the user and the bottom will be controlled by player 2 or the computer. The user's second paddle will be independent of the paddle on the side but the computer's paddle will be linked when one is automated.
+This project isn't combined.
+Good outcome would be that I can program two paddles that are independent of their respective partners but controlled by the same keys.
+Better outcome would be that I can program two paddles that are independent and controlled by separate keys
+Best outcome would be that I can program two paddles that are independent and controlled by seperate keys, with the computer's paddles fully automated.
+My next steps are actually finishing the pong programming before moving on to figuring out how to add another paddle
